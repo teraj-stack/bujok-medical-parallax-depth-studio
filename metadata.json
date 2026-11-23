@@ -1,0 +1,6 @@
+{
+  "name": "Bujok Medical Parallax & Depth Studio",
+  "description": "Studio fotorealistycznej głębi 3D, paralaksy okiennej, sekwencji 4 klatek AI oraz lekkiego eksportu animacji WebP i MP4.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
